@@ -19,6 +19,14 @@
             padding: 0; 
             word-wrap: break-word;
         }
+        /* New rule for data tables to prevent text from touching the borders */
+        table[border="1"] th, table[border="1"] td {
+            padding: 6px 10px;
+        }
+        th {
+            text-align: left;
+            font-weight: bold;
+        }
         h2, h3, p, ul, li { 
             margin: 0; 
             padding: 0; 
