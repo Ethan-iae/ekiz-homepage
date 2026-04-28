@@ -9,13 +9,20 @@
 
 ##  项目结构
 ```text
-├── index.html          # 主入口 (个人简介)
-├── projects.html       # 项目归档 (作品集)
-├── logs.html           # 开发日志 (更新记录)
-├── bookmarks.html      # 常用资源收藏
+├── index.html          # 入口页面 (重定向/语言选择)
 ├── uptime.js           # 系统运行时间计算脚本
 ├── LICENSE             # MIT 开源协议
-└── README.md           # 项目说明文档
+├── README.md           # 项目说明文档
+├── en/                 # 英文版
+│   ├── index.html      # 个人简介
+│   ├── projects.html   # 项目归档
+│   ├── logs.html       # 开发日志
+│   └── bookmarks.html  # 资源收藏
+└── zh/                 # 中文版
+    ├── index.html      # 个人简介
+    ├── projects.html   # 项目归档
+    ├── logs.html       # 开发日志
+    └── bookmarks.html  # 资源收藏
 ```
 
 ## 本地运行
