@@ -9,6 +9,7 @@
 
 ##  项目结构
 ```text
+├── favicon.ico         # 网站图标
 ├── index.html          # 入口页面 (重定向/语言选择)
 ├── uptime.js           # 系统运行时间计算脚本
 ├── LICENSE             # MIT 开源协议
