@@ -1,4 +1,4 @@
-# Ekiz's Homepage
+# Retro Homepage
 
 ![HTML3.2](https://img.shields.io/badge/HTML-3.2-E34F26?logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?logo=javascript&logoColor=black)
 
